@@ -1,6 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Сергей Липатов</h1>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
+👋 🇷🇺
 **SergeyLp/SergeyLp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
