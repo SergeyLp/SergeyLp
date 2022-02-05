@@ -1,5 +1,5 @@
 <h1 align="center">Сергей Липатов</h1>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 👋 🇷🇺
 **SergeyLp/SergeyLp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
