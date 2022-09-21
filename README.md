@@ -1,4 +1,3 @@
-<h1 align="center">Сергей Липатов</h1>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 👋 🇷🇺
